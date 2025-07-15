@@ -1,0 +1,51 @@
+[
+  {
+    "Item Name":"Tomato",
+    "Category":"Vegetable",
+    "Quantity":1.0,
+    "Unit":"kg",
+    "Restock Status":"In Stock"
+  },
+  {
+    "Item Name":"Ribeye",
+    "Category":"Meat",
+    "Quantity":1.0,
+    "Unit":"kg",
+    "Restock Status":"In Stock"
+  },
+  {
+    "Item Name":"Quinoa",
+    "Category":"Grain",
+    "Quantity":150.0,
+    "Unit":"g",
+    "Restock Status":"In Stock"
+  },
+  {
+    "Item Name":"Strawberry",
+    "Category":"Fruit",
+    "Quantity":150.0,
+    "Unit":"g",
+    "Restock Status":"In Stock"
+  },
+  {
+    "Item Name":"Oranges",
+    "Category":"Fruit",
+    "Quantity":3.0,
+    "Unit":"pcs",
+    "Restock Status":"In Stock"
+  },
+  {
+    "Item Name":"Apple",
+    "Category":"Fruit",
+    "Quantity":2.0,
+    "Unit":"pcs",
+    "Restock Status":"In Stock"
+  },
+  {
+    "Item Name":"Milk",
+    "Category":"Dairy",
+    "Quantity":300.0,
+    "Unit":"ml",
+    "Restock Status":"In Stock"
+  }
+]
